@@ -3,7 +3,6 @@
 
 <h3> 👦: &nbsp;About Me </h3>
 
-- 😄 Pronouns: He/He/His 
 - 🔭 I’m currently studying in: Amrita Vishwa Vidyapeetham, Coimbatore
 - :heart: My favorite language: Java, Python
 - 🌱 I’m currently learning: Data Structures and Mobile App Developement
