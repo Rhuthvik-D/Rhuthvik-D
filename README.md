@@ -43,11 +43,11 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Covid-Tracker: ](https://https://github.com/Rhuthvik-D/Covid-Tracker)<br>
+### [ Covid-Tracker: ](https://github.com/Rhuthvik-D/Covid-Tracker)<br>
 This is a project completely performed on Android Studio. The project is done by me and my team with respect to Mobile App Development course.<br>
 
 
-### [ Sentiment Analysis of Tweets: ](https://https://github.com/Rhuthvik-D/Sentiment-Analysis-Of-Tweets)<br>
+### [ Sentiment Analysis of Tweets: ](https://github.com/Rhuthvik-D/Sentiment-Analysis-Of-Tweets)<br>
 Project to implement a Twitter sentiment analysis model for overcoming the challenges to identify the Twitter tweets text sentiments (positive, negative). <br>
 
 
