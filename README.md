@@ -43,12 +43,12 @@
 <p>
 
 ## 📝 Recent Projects
-### [ College Management System: ](https://github.com/Rhuthvik-D/College-management-system)<br>
-An OOPS Project involving an informative database containing all the resources and details of the students and staff. Data is stored manually by the admin and the data is held and maintained by the Admin itself.<br>
+### [ Covid-Tracker: ](https://https://github.com/Rhuthvik-D/Covid-Tracker)<br>
+This is a project completely performed on Android Studio. The project is done by me and my team with respect to Mobile App Development course.<br>
 
 
-### [ Exam Scheduling System: ](https://github.com/Rhuthvik-D/Exam-_Scheduling-System)<br>
-This HTML project actually contains a whole database of a college, its students, the staff and their time tables for the examinations. It is a reuable and an effficient application. <br>
+### [ Sentiment Analysis of Tweets: ](https://https://github.com/Rhuthvik-D/Sentiment-Analysis-Of-Tweets)<br>
+Project to implement a Twitter sentiment analysis model for overcoming the challenges to identify the Twitter tweets text sentiments (positive, negative). <br>
 
 
 </p>
@@ -80,4 +80,4 @@ This HTML project actually contains a whole database of a college, its students,
 
 -----
 
-Last edited on: 28/06/2021
+Last edited on: 28/12/2021
