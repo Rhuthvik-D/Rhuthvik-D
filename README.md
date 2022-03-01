@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: Data Structures and Mobile App Developement
 - 👯 I have been doing projects on: Java, SQL, JavaScript
 - 💬 Ask me about: anything, I am happy to help
--:black heart: Interests: travel, internet culture, video games, Marel, Food
+-:black heart: Interests: travel, internet culture, video games, Marvel, Food
 - ⚡ Fun fact: One of my crazy fantasies is to get into a fist fight. 🖖
 
 <br/>
@@ -80,4 +80,4 @@ Project to implement a Twitter sentiment analysis model for overcoming the chall
 
 -----
 
-Last edited on: 28/12/2021
+Last edited on: 01/03/2022
