@@ -1,4 +1,4 @@
-# Hello, I'm Rhuthvik Dendukuri ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">
+# Hello, I'm Rhuthvik Dendukuri ! 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)
 
 <h3> 👦: &nbsp;About Me </h3>
