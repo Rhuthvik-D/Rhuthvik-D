@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently studying in: Amrita Vishwa Vidyapeetham, Coimbatore
 - :heart: My favorite language: Java, Python
-- 🌱 I’m currently learning: Data Structures and Mobile App Developement
-- 👯 I have been doing projects on: Java, SQL, JavaScript
+- 🌱 I’m currently learning: Data Science and Mobile App Developement
+- 👯 I have been doing projects on: Java, SQL, JavaScript, PHP.
 - 💬 Ask me about: anything, I am happy to help
 -:black heart: Interests: travel, internet culture, video games, Marvel, Food
 - ⚡ Fun fact: One of my crazy fantasies is to get into a fist fight. 🖖
@@ -80,4 +80,4 @@ Project to implement a Twitter sentiment analysis model for overcoming the chall
 
 -----
 
-Last edited on: 01/03/2022
+Last edited on: 05/06/2022
