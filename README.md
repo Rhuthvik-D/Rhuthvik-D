@@ -37,7 +37,11 @@
   ![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
--  ![image](https://github.com/Rhuthvik-D/Rhuthvik-D/assets/85996346/36f68449-280d-4277-b3c5-c371174b4521)
+- ☁️ &nbsp;
+  ![Cloud](https://img.shields.io/badge/Google-Cloud?style=for-the-badge&logo=google%20cloud&logoColor=blue&labelColor=black&color=%23d90707)
+  ![MCloud](https://img.shields.io/badge/microsoft-azure?style=for-the-badge&logo=google%20cloud&logoColor=blue&labelColor=black&color=blue)
+
+
 
 
 
@@ -46,12 +50,12 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Covid-Tracker: ](https://github.com/Rhuthvik-D/Covid-Tracker)<br>
-This is a project completely performed on Android Studio. The project is done by me and my team with respect to Mobile App Development course.<br>
+### [ Automatic Body part Classification: ](https://github.com/Rhuthvik-D/Automatic_body_part_classifiction)<br>
+This project is performed to enhance the prediction of the body part from an x-ray fed to any Machine learning or Deep learning model. It helps speed up the process of classifying the acquired x-ray images for further usage.<br>
 
 
-### [ Sentiment Analysis of Tweets: ](https://github.com/Rhuthvik-D/Sentiment-Analysis-Of-Tweets)<br>
-Project to implement a Twitter sentiment analysis model for overcoming the challenges to identify the Twitter tweets text sentiments (positive, negative). <br>
+### [ Music Recommendation System: ](https://github.com/Rhuthvik-D/Music-Recommendation-System)<br>
+With the usage of a massive music dataset, recommendation of music is performed with the help of previously heard songs. <br>
 
 
 </p>
@@ -68,19 +72,11 @@ Project to implement a Twitter sentiment analysis model for overcoming the chall
 
 
 
-<br/> 
 <br/>
-<p>
 
-<a align= "center" href="https://github.com/Rhuthvik-D">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=Rhuthvik-D&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
-
-</p>
-<br/>
 
 
 
 -----
 
-Last edited on: 05/06/2022
+Last edited on: 09/03/2023
