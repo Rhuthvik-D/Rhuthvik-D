@@ -3,6 +3,7 @@
 
 <h3> 👦: &nbsp;About Me </h3>
 
+- 👨‍🎓 Currently pursuing Masters in Computer Science in: New York University, Tandon School of Engineering
 - 🔭 Bachelors in Technology in: Amrita Vishwa Vidyapeetham, Coimbatore
 - :heart: My favorite language: C, C++, Python
 - 🌱 Experience in: Data Science and Mobile App Developement
