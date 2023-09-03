@@ -4,12 +4,12 @@
 <h3> 👦: &nbsp;About Me </h3>
 
 - 🔭 Bachelors in Technology in: Amrita Vishwa Vidyapeetham, Coimbatore
-- :heart: My favorite language: Java, Python
-- 🌱 I’m currently learning: Data Science and Mobile App Developement
-- 👯 I have been doing projects on: Java, SQL, JavaScript, PHP.
+- :heart: My favorite language: C, C++, Python
+- 🌱 Experience in: Data Science and Mobile App Developement
+- 👯 I have been doing projects on: Machine Learning, Deep Learning.
 - 💬 Ask me about: anything, I am happy to help
--:black heart: Interests: travel, internet culture, video games, Marvel, Food
-- ⚡ Fun fact: One of my crazy fantasies is to get into a fist fight. 🖖
+- 🖤 Interests: Travel, Video games, Photography, Food
+- ⚡Enjoyable Moment: Sky diving is exhilerating. 🖖
 
 <br/>
 
