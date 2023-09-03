@@ -3,7 +3,7 @@
 
 <h3> 👦: &nbsp;About Me </h3>
 
-- 🔭 I’m currently studying in: Amrita Vishwa Vidyapeetham, Coimbatore
+- 🔭 Bachelors in Technology in: Amrita Vishwa Vidyapeetham, Coimbatore
 - :heart: My favorite language: Java, Python
 - 🌱 I’m currently learning: Data Science and Mobile App Developement
 - 👯 I have been doing projects on: Java, SQL, JavaScript, PHP.
