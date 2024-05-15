@@ -6,8 +6,8 @@
 - 👨‍🎓 Currently pursuing Masters in Computer Science in: New York University, Tandon School of Engineering
 - 🔭 Bachelors in Technology in: Amrita Vishwa Vidyapeetham, Coimbatore
 - :heart: My favorite language: C, C++, Python
-- 🌱 Experience in: Data Science and Mobile App Developement
-- 👯 I have been doing projects on: Machine Learning, Deep Learning.
+- 🌱 Experience in: Data Science and Machine Learning
+- 👯 I have been doing projects on: Machine Learning, Deep Learning, Computer Vision
 - 💬 Ask me about: anything, I am happy to help
 - 🖤 Interests: Travel, Video games, Photography, Food
 - ⚡Enjoyable Moment: Sky diving is exhilerating. 🖖
