@@ -3,7 +3,7 @@
 
 <h3> 👦: &nbsp;About Me </h3>
 
-- 👨‍🎓 Currently pursuing Masters in Computer Science in: New York University, Tandon School of Engineering
+- 👨‍🎓 Currently pursuing Master's in Computer Science in: New York University, Tandon School of Engineering
 - 🔭 Bachelors in Technology in: Amrita Vishwa Vidyapeetham, Coimbatore
 - :heart: My favorite language: C, C++, Python
 - 🌱 Experience in: Data Science and Machine Learning
@@ -51,12 +51,13 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Automatic Body part Classification: ](https://github.com/Rhuthvik-D/Automatic_body_part_classifiction)<br>
-This project is performed to enhance the prediction of the body part from an x-ray fed to any Machine learning or Deep learning model. It helps speed up the process of classifying the acquired x-ray images for further usage.<br>
 
+### [ Convolution and Cross Co - Relation: ](https://github.com/Rhuthvik-D/Computer-Vision-Convolution-Cross_Correlation)<br>
+This project experiments the concepts of Convolution and Cross Co - Relation to establish a difference between them both.<br>
 
-### [ Music Recommendation System: ](https://github.com/Rhuthvik-D/Music-Recommendation-System)<br>
-With the usage of a massive music dataset, recommendation of music is performed with the help of previously heard songs. <br>
+### [ Histogram Equalization and OTSU Thresholding: ](https://github.com/Rhuthvik-D/Computer-Vision-HEQ-OTSU)<br>
+This project experiments the concepts of Histogram Equalization and OTSU Thresholding to establish a proper understanding of the methods and their parameters.<br>
+
 
 
 </p>
