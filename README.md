@@ -1,16 +1,17 @@
+
 # Hello, I'm Rhuthvik Dendukuri ! 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)
 
 <h3> 👦: &nbsp;About Me </h3>
 
-- 👨‍🎓 Currently pursuing Master's in Computer Science in: New York University, Tandon School of Engineering
+- 👨‍🎓 Pursuing Master's in Computer Science at New York University
 - 🔭 Bachelors in Technology in: Amrita Vishwa Vidyapeetham, Coimbatore
 - :heart: My favorite language: C, C++, Python
 - 🌱 Experience in: Data Science and Machine Learning
 - 👯 I have been doing projects on: Machine Learning, Deep Learning, Computer Vision
 - 💬 Ask me about: anything, I am happy to help
 - 🖤 Interests: Travel, Video games, Photography, Food
-- ⚡Enjoyable Moment: Sky diving is exhilerating. 🖖
+- ⚡Enjoyable Moment: Sky diving is exhilarating. 🖖
 
 <br/>
 
@@ -42,26 +43,27 @@
   ![Cloud](https://img.shields.io/badge/Google-Cloud?style=for-the-badge&logo=google%20cloud&logoColor=blue&labelColor=black&color=%23d90707)
   ![MCloud](https://img.shields.io/badge/microsoft-azure?style=for-the-badge&logo=google%20cloud&logoColor=blue&labelColor=black&color=blue)
 
-
-
-
-
 <br/>
 
-<p>
-
 ## 📝 Recent Projects
+
+### [Audio Transcription and Phoneme Extraction: ](https://github.com/Rhuthvik-D/Audio-Transcription)<br>
+This project leverages OpenAI's Whisper model for speech transcription accuracy improvement. It processes over 100 hours of audio to extract phonemes and time offsets.<br>
+
+### [Snake Game with Computer Vision: ](https://github.com/Rhuthvik-D/Snake-Game)<br>
+Developed a Python-based computer vision Snake game with real-time object tracking and collision detection.<br>
+
+### [Body Part Classification from X-ray Images: ](https://github.com/Rhuthvik-D/Body-Part-Classification)<br>
+Executed ML and DL models for accurate prediction and classification of body parts from X-ray images, achieving 86.2% accuracy.<br>
+
+### [NowAware Application: ](https://github.com/Rhuthvik-D/NowAware-Application)<br>
+Built an app using React Native to alert road users of approaching emergency vehicles, allowing timely action.<br>
 
 ### [ Convolution and Cross Co - Relation: ](https://github.com/Rhuthvik-D/Computer-Vision-Convolution-Cross_Correlation)<br>
 This project experiments the concepts of Convolution and Cross Co - Relation to establish a difference between them both.<br>
 
 ### [ Histogram Equalization and OTSU Thresholding: ](https://github.com/Rhuthvik-D/Computer-Vision-HEQ-OTSU)<br>
 This project experiments the concepts of Histogram Equalization and OTSU Thresholding to establish a proper understanding of the methods and their parameters.<br>
-
-
-
-</p>
-
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
@@ -72,13 +74,8 @@ This project experiments the concepts of Histogram Equalization and OTSU Thresho
 <img alt="Instagram" src="https://img.shields.io/badge/d.rhuthvik-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </p>
 
-
-
 <br/>
-
-
-
 
 -----
 
-Last edited on: 09/03/2023
+Last edited on: 09/07/2024
