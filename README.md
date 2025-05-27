@@ -4,11 +4,11 @@
 
 <h3> 👦: &nbsp;About Me </h3>
 
-- 👨‍🎓 Pursuing Master's in Computer Science at New York University
+- 👨‍🎓 Master's in Computer Science at New York University
 - 🔭 Bachelors in Technology in: Amrita Vishwa Vidyapeetham, Coimbatore
 - :heart: My favorite language: C, C++, Python
 - 🌱 Experience in: Data Science and Machine Learning
-- 👯 I have been doing projects on: Machine Learning, Deep Learning, Computer Vision
+- 👯 I have been doing projects on: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
 - 💬 Ask me about: anything, I am happy to help
 - 🖤 Interests: Travel, Video games, Photography, Food
 - ⚡Enjoyable Moment: Sky diving is exhilarating. 🖖
